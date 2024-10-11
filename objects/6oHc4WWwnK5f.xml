@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="3u7WVLqZDri3" classes="business-requirement weakness" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+<object id="6oHc4WWwnK5f" classes="business-requirement strength" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
-    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[DEBI-]]></prefix><number>002</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Pago en persona]]></stringProperty>
-    <dateProperty name=":Proteus-date" category="general">2024-10-07</dateProperty>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[FORT-]]></prefix><number>006</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Recordatorio citas]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-11</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[Los clientes solo pueden realizar el pago presencialmente en la empresa.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Se recuerdan las citas a los clientes el día de antes a través de un mensaje.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

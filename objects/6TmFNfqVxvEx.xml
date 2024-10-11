@@ -2,12 +2,12 @@
 <object id="6TmFNfqVxvEx" classes="business-requirement weakness" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
     <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[DEBI-]]></prefix><number>001</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[No posee aplicación para los clientes]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[No posee sistema para los clientes]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-07</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[Los clientes no tienen una aplicación para realizar diferentes gestiones.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Actualmente, los clientes no tienen un sistema para realizar diferentes gestiones y consultar determinada información (historial en el centro, tratamientos, diagnósticos...).]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
