@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="5Y9xuF6L4FRK" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+<object id="4pAGrXQ3Zkye" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Paragraph]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-11</dateProperty>
@@ -8,7 +8,7 @@
       <trace target="7oLBkVsnVk89" traceType=":Proteus-author"/>
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[• Cliente: Persona que recibe los servicios por parte de los profesionales y realiza sus trámites (tales como pagos o citas) con la secretaria.]]></markdownProperty>
+    <markdownProperty name="text" category="detail"><![CDATA[• Secretario/recepcionista: Persona encargada de los trámites entre el sistema informático y los profesionales y las interacciones entre la empresa y los clientes.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
