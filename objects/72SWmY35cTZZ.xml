@@ -8,7 +8,7 @@
       <trace target="7oLBkVsnVk89" traceType=":Proteus-author"/>
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[MUVHIT es un centro interdisciplinar de recuperación funcional y promoción de hábitos saludables que cuenta con los servicios de nutrición, con un profesor nutriólogo miembro fundador del SEDyN y vocal del SANCYD; medicina, con un especialista en Medicina del Deporte; fisioterapia, con un equipo de dos personas fisioterapeutas; y ejercicio físico, con un equipo de seis personas especializado en distintas áreas de las Ciencias del Deporte. ]]></markdownProperty>
+    <markdownProperty name="text" category="detail"><![CDATA[MUVHIT es un centro interdisciplinar de recuperación funcional y promoción de hábitos saludables que cuenta con los servicios de nutrición, con un profesor nutriólogo miembro fundador del SEDyN y vocal del SANCYD; medicina, con un especialista en Medicina del Deporte; fisioterapia, con un equipo de dos personas fisioterapeutas; y ejercicio físico, con un equipo de seis personas especializado en distintas áreas de las Ciencias del Deporte. Además, la empresa cuenta con una recepcionista y con varios accionistas.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
