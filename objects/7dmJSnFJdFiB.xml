@@ -6,6 +6,7 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
       <trace target="7oLBkVsnVk89" traceType=":Proteus-author"/>
+      <trace target="5jCxUoFfb23w" traceType=":Proteus-author"/>
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[• Equipos disciplinares: Equipos formados por profesionales encargados de los distintos sectores de la empresa.]]></markdownProperty>

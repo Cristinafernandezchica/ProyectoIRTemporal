@@ -7,7 +7,7 @@
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <timeProperty name="time" category="detail">12:00:00</timeProperty>
-    <stringProperty name="place" category="detail"><![CDATA[Tlefónica]]></stringProperty>
+    <stringProperty name="place" category="detail"><![CDATA[Telefónica]]></stringProperty>
     <traceProperty name="attenders" category="detail" acceptedTargets="stakeholder" traceType=":Proteus-information-source">
       <trace target="5aNRZgmDbq8p" traceType=":Proteus-information-source"/>
       <trace target="Pwhp9YDoGygs" traceType=":Proteus-information-source"/>
