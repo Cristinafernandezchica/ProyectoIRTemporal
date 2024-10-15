@@ -8,22 +8,22 @@
       <trace target="5jCxUoFfb23w" traceType=":Proteus-author"/>
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[- Solicitar citas online. Los usuarios serán capaces de visualizar los horarios de los profesionales, y qué franjas horarias están disponibles, para así poder decidir la mejor opción para estos. El cliente, tras haber realizado su elección, llevará a cabo una solicitud de cita, la cual le llegará al profesional. Posteriormente, este deberá decidir según su criterio si aceptarla o rechazarla.
+    <markdownProperty name="text" category="detail"><![CDATA[- Solicitar citas online. Los usuarios serán capaces de visualizar los horarios de los profesionales, y qué franjas horarias están disponibles, para así poder decidir la mejor opción para estos. 
 
 
-- Cambio de cita. En el caso de que al cliente le surja algún inconveniente que le impida asistir a la sesión, éste podrá solicitar un cambio si y sólo si se realiza 24 horas antes de la cita, en otro caso, la sesión se establecerá como efectuada. Para ello, el cliente deberá acceder a su apartado de citas y cancelar aquella que se desea cambiar de fecha y ejecutar el mismo proceso de solicitud de cita.
+- Cambio de cita. En el caso de que al cliente le surja algún inconveniente que le impida asistir a la sesión, este podrá solicitar un cambio, si y sólo si, se realiza 24 horas antes de la cita, en otro caso, la sesión se establecerá como efectuada.
 
 
-- Visualización de los distintos tipos de bonos. MUVHIT emplea una organización de sesiones mediante bonos, los cuales estarán formados por el número de citas elegido. Por ello, es interesante para el cliente ser capaz de visualizar los distintos tipos de bonos que existen de cada departamento.
+- Visualización de los distintos tipos de bonos. Es interesante para el cliente ser capaz de visualizar los distintos tipos de bonos que existen de cada departamento.
 
 
-- Visualizar las sesiones realizadas y las restantes. Una vez adquirido el bono, el cliente podrá ver tanto las sesiones realizadas hasta el momento como las restantes, de esta forma, si le interesa una extensión del bono, sabrá cuándo deberá realizar la compra.
+- Visualizar las sesiones realizadas y las restantes. En caso de que el cliente esté interesado en una extensión del bono, mediante una visualización de las sesiones finalizadas y restantes, este sabrá cuándo deberá realizar la compra.
 
 
-- Pago online de las sesiones. Hasta el momento, el cliente debe realizar el pago en la institución tras haber realizado la primera sesión. La empresa está interesada en abrir la posibilidad de pagar de forma online. El cliente elegirá el tipo de bono, solicitará agendar la primera cita y finalmente, pagará. En caso de querer extender el bono, deberá llevar a cabo dicha acción el día de la última sesión o posterior, a través del mismo proceso explicado.
+- Pago online de las sesiones. La empresa está interesada en abrir la posibilidad de pagar de forma online para ofrecer al cliente un cierto grado de independencia.
 
 
-- Información de usuario. Al poseer un usuario, el cliente podrá acceder a sus datos personales y a los distintos diagnósticos efectuados por los profesionales. El cliente tendrá a su disposición un apartado con los 4 departamentos que conforman la empresa, desde los cuales será capaz de acceder a los informes desarrollados por los profesionales: dietas, entrenamientos, diagnósticos médicos,...]]></markdownProperty>
+- Información de usuario. Es interesante para el cliente tener un apartado donde podrá acceder a los informes tomados por los profesionales en las sesiones: dietas, entrenamientos, diagnósticos médicos...]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

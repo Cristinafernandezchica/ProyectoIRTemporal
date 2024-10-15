@@ -8,7 +8,7 @@
       <trace target="5jCxUoFfb23w" traceType=":Proteus-author"/>
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[• Sistema de notificaciones automatizado. Para facilitar la labor a los trabajadores, se pretende automatizar el envío de notificaciones, ya que hasta el momento los profesionales debían enviar recordatorios a sus clientes las 24 horas de la sesión. Este proceso será ejecutado por la propia aplicación, y se añadirá otro tipo de notificación que informe de la finalización del bono con 2 citas de antelación.
+    <markdownProperty name="text" category="detail"><![CDATA[• Sistema de notificaciones automatizado. Para facilitar la labor a los trabajadores, se pretende automatizar el envío de notificaciones, ya que hasta el momento los profesionales debían enviar recordatorios a sus clientes las 24 horas antes de la sesión. 
 
 ]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
