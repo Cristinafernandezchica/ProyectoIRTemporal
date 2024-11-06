@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7JqT3C3K4evT" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copia de Grupo IR]]></stringProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children>
+    <child id="3HrUZVihiqV9"/>
+    <child id="7tkkCxKhVkP8"/>
+    <child id="3eF7FNVTxsXT"/>
+    <child id="4oK8rbxnkxeS"/>
+    <child id="kz86SXKUVF34"/>
+  </children>
+</object>
