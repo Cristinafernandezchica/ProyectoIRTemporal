@@ -9,8 +9,8 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El sistema se comportará como se describe en el siguiente caso de uso cuando el paciente deseen ver las franjas horarias disponibles de cada profesional.
 <p><strong>Flujo principal</strong></p> <ol> 
-<li>El paciente selecciona el profesional de la salud.</li> 
-<li>El sistema muestra las franjas horarias disponibles.</li> 
+<li>El paciente va a la sección "sesiones" y dentro de esta al apartado "agendar".</li> 
+<li>El sistema muestra las franjas horarias disponibles de la especialidad seleccionada.</li> 
 </ol>]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[El paciente debe estar registrado (y con sesión iniciada).]]></markdownProperty>
     <markdownProperty name="postcondition" category="pre-post"><![CDATA[Se visualizan las franjas horarias disponibles.]]></markdownProperty>
@@ -18,7 +18,10 @@
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
     <enumProperty name="stability" category="priority" choices="tbd low medium high">tbd</enumProperty>
-    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency">
+      <trace target="5Jr2QsKgL65w" traceType=":Proteus-dependency"/>
+      <trace target="32GiVcY8ceKW" traceType=":Proteus-dependency"/>
+    </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

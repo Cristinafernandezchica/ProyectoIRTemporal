@@ -9,12 +9,16 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El sistema se comportará como se describe en el siguiente caso de uso cuando el paciente desee comprar un bono.
 <p><strong>Flujo principal</strong></p> <ol> 
+<li>El paciente accede al apartado "catálogo" de la sección "bonos".</li>
 <li>El paciente selecciona el bono deseado.</li> 
-<li>El sistema redirige al paciente a la entidad de pago correspondiente.</li>
-<li>El sistema actualiza los bonos que tiene el cliente.</li>
-</ol>]]></markdownProperty>
+<li>El sistema redirige al paciente a la pantalla de pago.</li>
+<li>El paciente rellena los datos de compra y realiza el pago si procede.</li>
+<li>El sistema muestra el recibo correspondiente.</li>
+</ol>
+
+]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[El paciente deberá haber realizado anteriormente una evaluación inicial.]]></markdownProperty>
-    <markdownProperty name="postcondition" category="pre-post"><![CDATA[El sistema deberá enviar al paciente la factura correspondiente a la compra del bono.]]></markdownProperty>
+    <markdownProperty name="postcondition" category="pre-post"><![CDATA[El sistema acualiza los bonos del cliente.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
@@ -22,6 +26,8 @@
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency">
       <trace target="4ktXBG9nDGtT" traceType=":Proteus-dependency"/>
       <trace target="3XzzxEvexcTY" traceType=":Proteus-dependency"/>
+      <trace target="5Jr2QsKgL65w" traceType=":Proteus-dependency"/>
+      <trace target="5qDSnJyYF6xH" traceType=":Proteus-dependency"/>
     </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

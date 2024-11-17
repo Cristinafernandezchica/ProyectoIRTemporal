@@ -12,7 +12,6 @@
 <li>El paciente accede a la página de registro.</li> 
 <li>El paciente introduce sus datos personales (nombre, DNI, dirección, correo, teléfono, etc.).</li>
  <li>El sistema valida los datos y crea un usuario.</li> 
-<li>El paciente recibe un correo de confirmación.</li> 
 </ol>
 ]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[El paciente no debe estar registrado.]]></markdownProperty>
@@ -21,7 +20,10 @@
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
     <enumProperty name="stability" category="priority" choices="tbd low medium high">tbd</enumProperty>
-    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency">
+      <trace target="4sdKz4bUKT4i" traceType=":Proteus-dependency"/>
+      <trace target="4Avt8VeK4x3n" traceType=":Proteus-dependency"/>
+    </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

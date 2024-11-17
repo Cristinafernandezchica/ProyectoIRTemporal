@@ -9,7 +9,7 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El sistema se comportará como se describe en el siguiente caso de uso cuando el paciente desee consultar su historial clínico.
 <p><strong>Flujo principal</strong></p> <ol> 
-<li>El paciente accede a la sección de historial clínico.</li> 
+<li>El paciente accede al apartado "historial clínico" presente dentro de su perfil su perfil.</li> 
 <li>El sistema muestra los diagnósticos realizados por los profesionales en las distintas sesiones.</li> 
 </ol>]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[El paciente deberá estar resgistrado (y con sesión iniciada).]]></markdownProperty>
@@ -18,7 +18,11 @@
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
     <enumProperty name="stability" category="priority" choices="tbd low medium high">tbd</enumProperty>
-    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency">
+      <trace target="4sdKz4bUKT4i" traceType=":Proteus-dependency"/>
+      <trace target="36X6NsxcWbZC" traceType=":Proteus-dependency"/>
+      <trace target="4Avt8VeK4x3n" traceType=":Proteus-dependency"/>
+    </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
