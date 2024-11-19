@@ -8,15 +8,15 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[
 
-Subsistema de pacientes: El subsistema se encargará de la gestión de pacientes registrados.
+<strong>Subsistema de pacientes:</strong> El subsistema se encargará de la gestión de pacientes registrados.
 
-Subsistema de agendas: El subsistema se encargará de la gestión de las agendas de cada profesional.
+<strong>Subsistema de agendas:</strong> El subsistema se encargará de la gestión de las agendas de cada profesional.
 
-Subsistema de citas: El subsistema se encargará de la gestión de citas de cada paciente.
+<strong>Subsistema de citas:</strong> El subsistema se encargará de la gestión de citas de cada paciente.
 
-Subsistema de pagos: El subsistema se encargará de la gestión de pagos de bonos.
+<strong>Subsistema de pagos: El subsistema se encargará de la gestión de pagos de bonos.
 
-Subsistema de diagnósticos: El subsistema se encargará de la gestión de diagnósticos de cada paciente.
+<strong>Subsistema de diagnósticos:</strong> El subsistema se encargará de la gestión de diagnósticos de cada paciente.
 ]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
