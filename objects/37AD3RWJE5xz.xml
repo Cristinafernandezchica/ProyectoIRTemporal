@@ -9,11 +9,11 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El sistema se comportará como se describe en el siguiente caso de uso cuando el paciente desee consultar su historial clínico.
 <p><strong>Flujo principal</strong></p> <ol> 
-<li>El paciente accede al apartado "historial clínico" presente dentro de su perfil su perfil.</li> 
+<li>El paciente accede al apartado "historial clínico" presente dentro de su perfil.</li> 
 <li>El sistema muestra los diagnósticos realizados por los profesionales en las distintas sesiones.</li> 
 </ol>]]></markdownProperty>
-    <markdownProperty name="precondition" category="pre-post"><![CDATA[El paciente deberá estar resgistrado (y con sesión iniciada).]]></markdownProperty>
-    <markdownProperty name="postcondition" category="pre-post"><![CDATA[El paciente visulaiza su historial clínico.]]></markdownProperty>
+    <markdownProperty name="precondition" category="pre-post"><![CDATA[El paciente deberá estar registrado (y con sesión iniciada).]]></markdownProperty>
+    <markdownProperty name="postcondition" category="pre-post"><![CDATA[El paciente visualiza su historial clínico.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
