@@ -8,11 +8,6 @@
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El sistema se comportará como se describe en el siguiente caso de uso cuando un paciente no registrado desee registrarse en el sistema.
-<p><strong>Flujo principal</strong></p> <ol> 
-<li>El paciente accede a la página de registro.</li> 
-<li>El paciente introduce sus datos personales (nombre, DNI, dirección, correo, teléfono, etc.).</li>
- <li>El sistema valida los datos y crea un usuario.</li> 
-</ol>
 ]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[El paciente no debe estar registrado.]]></markdownProperty>
     <markdownProperty name="postcondition" category="pre-post"><![CDATA[El usuario está registrado y puede iniciar sesión.]]></markdownProperty>
@@ -27,5 +22,8 @@
   </properties>
   <children>
     <child id="4EY3fMVa9sj9"/>
+    <child id="A2wnhZR8xcSr"/>
+    <child id="5RRrxYxHNfqX"/>
+    <child id="35sB4kfMYU5T"/>
   </children>
 </object>
