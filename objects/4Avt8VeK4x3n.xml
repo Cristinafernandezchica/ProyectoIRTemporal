@@ -15,6 +15,10 @@
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency">
       <trace target="7Y3UApyrJFPt" traceType=":Proteus-dependency"/>
       <trace target="3k5dXqCgAUsd" traceType=":Proteus-dependency"/>
+      <trace target="4zceteYkErWU" traceType=":Proteus-dependency"/>
+      <trace target="5a5L58hT2dXH" traceType=":Proteus-dependency"/>
+      <trace target="37AD3RWJE5xz" traceType=":Proteus-dependency"/>
+      <trace target="8Jbh6Mr647Qn" traceType=":Proteus-dependency"/>
     </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
