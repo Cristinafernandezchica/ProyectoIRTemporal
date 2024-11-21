@@ -8,9 +8,6 @@
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El sistema se comportará como se describe en el siguiente caso de uso cuando el paciente desee visualizar los distintos bonos que ofrece la empresa.
-<p><strong>Flujo principal</strong></p> <ol> 
-<li>El paciente accede al apartado "catálogo" de la sección "bonos".</li> <li>El sistema muestra el catálogo de bonos disponibles.</li> 
-</ol>
 
 ]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[El paciente debe estar registrado (y con sesión iniciada).]]></markdownProperty>
@@ -25,5 +22,8 @@
     </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
-  <children/>
+  <children>
+    <child id="4SsQBM9ewfr8"/>
+    <child id="7xmm5WJ8WG6D"/>
+  </children>
 </object>

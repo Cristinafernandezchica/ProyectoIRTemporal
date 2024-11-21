@@ -8,13 +8,6 @@
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El sistema se comportará como se describe en el siguiente caso de uso cuando el paciente desee comprar un bono.
-<p><strong>Flujo principal</strong></p> <ol> 
-<li>El paciente accede al apartado "catálogo" de la sección "bonos".</li>
-<li>El paciente selecciona el bono deseado.</li> 
-<li>El sistema redirige al paciente a la pantalla de pago.</li>
-<li>El paciente rellena los datos de compra y realiza el pago si procede.</li>
-<li>El sistema muestra el recibo correspondiente.</li>
-</ol>
 
 ]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[El paciente deberá haber realizado anteriormente una evaluación inicial.]]></markdownProperty>
@@ -31,5 +24,14 @@
     </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
-  <children/>
+  <children>
+    <child id="63hkKsjQG33Y"/>
+    <child id="7TZ4zTUjK7bE"/>
+    <child id="4FmL6SJaieMr"/>
+    <child id="3XdtuYpFFQKQ"/>
+    <child id="82BuSkCaf9hk"/>
+    <child id="66TkqLFbjnbx"/>
+    <child id="7kVabzU7makA"/>
+    <child id="36pFxcRxGroa"/>
+  </children>
 </object>
