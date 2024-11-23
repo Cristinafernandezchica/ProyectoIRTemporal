@@ -11,7 +11,7 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El proceso de evaluación inicial del cliente inicia con la petición de la cita por parte del cliente, si este no está registrado, la recepcionista se encargará de registrarlo, una vez registrado se coge cita. La recepcionista mandará un recordatorio 24 horas antes de la cita. El día de la evaluación inicial, tras su realización, el profesional aconseja escoger un bono en función de la cantidad de sesiones que crea conveniente. El cliente escoge un bono, coge la primera cita del bono y hace el pago del mismo, terminando así el proceso.]]></markdownProperty>
     <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[Evaluacion_Inicial_Del_Cliente.png]]></fileProperty>
-    <enumProperty name="importance" category="detail" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
+    <enumProperty name="importance" category="detail" tooltip="importance" choices="tbd critical high medium low optional">high</enumProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">98</integerProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>

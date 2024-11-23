@@ -17,7 +17,7 @@
       <trace target="3hwWHJ9rqHaY" traceType=":Proteus-information-source"/>
       <trace target="Pwhp9YDoGygs" traceType=":Proteus-information-source"/>
     </traceProperty>
-    <markdownProperty name="results" category="results"><![CDATA[En esta reunión se han tratado temas como los requisitos de integración, resoluciones con respecto a la mantenibilidad y fiabilidad, formato del historial médico y aclarado ciertos aspectos del funcionamiento de la empresa para el desarrollo de los casos de uso.]]></markdownProperty>
+    <markdownProperty name="results" category="results"><![CDATA[En esta reunión se han tratado temas como los requisitos de integración, requisitos de seguridad y precaución de pérdida de datos, resoluciones con respecto a la mantenibilidad y fiabilidad, formato del historial médico y aclarado ciertos aspectos del funcionamiento de la empresa para el desarrollo de los casos de uso.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

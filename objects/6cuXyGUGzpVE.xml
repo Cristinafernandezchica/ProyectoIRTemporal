@@ -13,7 +13,7 @@
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">medium</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">medium</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">awaiting-validation</enumProperty>
-    <enumProperty name="stability" category="priority" choices="tbd low medium high">tbd</enumProperty>
+    <enumProperty name="stability" category="priority" choices="tbd low medium high">high</enumProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency">
       <trace target="5Jr2QsKgL65w" traceType=":Proteus-dependency"/>
       <trace target="n4WJSCtyfkUi" traceType=":Proteus-dependency"/>

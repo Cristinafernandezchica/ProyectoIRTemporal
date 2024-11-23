@@ -9,7 +9,7 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[En cuanto al proceso de coger cita en primer lugar el cliente debe ponerse en contacto con la empresa para poder agendar su sesión en alguna fecha en la que se encuentre disponible el profesional requerido. Tras ofertarle al cliente las fechas disponibles se le solicita una confirmación al profesional si le es posible llevar a cabo esa sesión y una vez el profesional acepte la fecha se fija la cita, si el profesional no se encuentra disponible se buscará otra fecha para reorganizar la cita.]]></markdownProperty>
     <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[Coger_Cita.png]]></fileProperty>
-    <enumProperty name="importance" category="detail" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
+    <enumProperty name="importance" category="detail" tooltip="importance" choices="tbd critical high medium low optional">high</enumProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">98</integerProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
