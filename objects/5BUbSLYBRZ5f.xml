@@ -11,7 +11,7 @@
 
 ]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[El sistema debe haber notificado la solicitud de una cita.]]></markdownProperty>
-    <markdownProperty name="postcondition" category="pre-post"><![CDATA[Se envía la nitificación de aceptación de solicitud al paciente.
+    <markdownProperty name="postcondition" category="pre-post"><![CDATA[Se envía la notificación de aceptación de solicitud al paciente.
 Se actualiza el calendario del profesional.
 Se actualiza el calendario del paciente.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
@@ -23,7 +23,7 @@ Se actualiza el calendario del paciente.]]></markdownProperty>
     </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
-  <children numbered="true">
+  <children>
     <child id="6g9QenBbFAKP"/>
     <child id="4DD3cqGQCTXL"/>
     <child id="7RyVfzXXFzhh"/>
