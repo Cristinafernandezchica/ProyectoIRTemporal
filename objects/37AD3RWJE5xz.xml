@@ -2,12 +2,12 @@
 <object id="37AD3RWJE5xz" classes="software-requirement use-case" acceptedChildren="use-case-step" acceptedParents=":Proteus-any">
   <properties>
     <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[CU-]]></prefix><number>008</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Consultar el historial clínico]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Consultar el lista de diagnósticos]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-11-06</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[El sistema se comportará como se describe en el siguiente caso de uso cuando el paciente desee consultar su historial clínico.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[El sistema se comportará como se describe en el siguiente caso de uso cuando el paciente desee consultar sus diagnósticos.]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[El paciente deberá estar registrado (y con sesión iniciada).]]></markdownProperty>
     <markdownProperty name="postcondition" category="pre-post"><![CDATA[El paciente visualiza su historial clínico.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
