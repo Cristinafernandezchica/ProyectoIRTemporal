@@ -8,7 +8,7 @@
       <trace target="3WLXaSPNyQf2" traceType=":Proteus-author"/>
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[Se puede ver el mockup de forma online en este <A href="https://balsamiq.cloud/sp08y3a/p38on9a">enlace</A> o ver el archivo zip adjunto]]></markdownProperty>
+    <markdownProperty name="text" category="detail"><![CDATA[Se puede ver el mockup de forma online en este <A href="https://balsamiq.cloud/sp08y3a/p38on9a">enlace</A> o ver el archivo zip adjunto.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
