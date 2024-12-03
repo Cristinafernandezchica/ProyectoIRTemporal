@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="6gKUhERx22UL" classes="stakeholder" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copia de Daniel Aguilar Robles]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Daniel Aguilar Robles]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-11-06</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>

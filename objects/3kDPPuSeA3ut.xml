@@ -2,7 +2,7 @@
 <object id="3kDPPuSeA3ut" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Historial clínico]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Historial formado por el conjunto de todos los diagnósticos los cuáles, a su vez, describen el tratamiento del paciente. ]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

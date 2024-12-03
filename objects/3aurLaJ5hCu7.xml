@@ -8,7 +8,7 @@
       <trace target="5aNRZgmDbq8p" traceType=":Proteus-author"/>
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <fileProperty name="file" category="detail" tooltip="file-info"><![CDATA[Modelo_conceptual.png]]></fileProperty>
+    <fileProperty name="file" category="detail" tooltip="file-info"><![CDATA[Modelo conceptual Muvhit.drawio.png]]></fileProperty>
     <urlProperty name="url" category="detail"><![CDATA[https://www.us.es/sites/default/files/2019-05/marca-US-principal.jpg]]></urlProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">75</integerProperty>
     <markdownProperty name="description" category="detail"><![CDATA[Diagrama de clases del sistema]]></markdownProperty>

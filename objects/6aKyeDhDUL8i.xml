@@ -2,12 +2,12 @@
 <object id="6aKyeDhDUL8i" classes="business-requirement weakness" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
     <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[DEBI-]]></prefix><number>006</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Conocer citas del bono]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Conocer sesiones restantes del bono]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-07</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[Los clientes tienen que preguntar en la empresa el número de citas del bono que le quedan por gastar.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Los pacientes tienen que preguntar en la empresa el número de sesiones del bono que le quedan por gastar.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

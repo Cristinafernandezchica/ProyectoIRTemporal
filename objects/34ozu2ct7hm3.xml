@@ -4,9 +4,7 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Paragraph]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-11-06</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
-    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
-      <trace target="7oLBkVsnVk89" traceType=":Proteus-author"/>
-    </traceProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[Entre sus instalaciones se encuentran una sala de entrenamiento y recuperación funcional, vestuarios accesibles, una recepción con sala de espera y unidades de nutrición, medicina y fisioterapia.
 Actualmente cuentan con una única sede presencial.

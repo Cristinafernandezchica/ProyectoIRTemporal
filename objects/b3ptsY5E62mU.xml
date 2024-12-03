@@ -2,12 +2,12 @@
 <object id="b3ptsY5E62mU" classes="business-requirement strength" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
     <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[FORT-]]></prefix><number>005</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Cancelación citas]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Cancelación de citas]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-11</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[Para cancelar una cita, la persona citada deberá avisar con un mínimo de 24 horas de antelación al centro. De lo contrario, se procederá al cobro de la misma (en caso de poseer bono, se quitará una cita del mismo).]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Para cancelar una cita, el paciente citado deberá avisar con un mínimo de 24 horas de antelación al centro. De lo contrario, se procederá al cobro de la misma (en caso de poseer bono, se quitará una cita del mismo).]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
