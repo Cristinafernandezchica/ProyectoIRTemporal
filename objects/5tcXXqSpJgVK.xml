@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<object id="5tcXXqSpJgVK" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
-  <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Evaluaciones iniciales]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[Procedimiento previo a las sesiones para comenzar el tratamiento]]></markdownProperty>
-    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
-  </properties>
-  <children/>
-</object>

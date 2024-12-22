@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="6eTSchhwGyJC" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[EstadoPago]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Estado del pago]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[Propiedad para saber si el pago está realizado o pendiente.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

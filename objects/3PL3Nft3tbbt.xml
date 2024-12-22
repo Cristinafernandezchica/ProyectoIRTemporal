@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="3PL3Nft3tbbt" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Modalidades]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Modalidad]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

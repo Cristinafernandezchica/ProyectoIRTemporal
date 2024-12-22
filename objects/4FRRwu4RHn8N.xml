@@ -3,7 +3,7 @@
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Descripción]]></stringProperty>
     <stringProperty name="type" category="general"><![CDATA[string]]></stringProperty>
-    <markdownProperty name="description" category="detail"><![CDATA[descripción]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Texto en el que el profesional describe la condición del paciente.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

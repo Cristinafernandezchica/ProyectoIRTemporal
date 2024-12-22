@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="KL4pEdeV9BUY" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Evaluaciones iniciales]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[]]></markdownProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Estado]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Estado de la cita que puede ser 'Aceptada', 'EnSolicitud' o 'Libre'.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

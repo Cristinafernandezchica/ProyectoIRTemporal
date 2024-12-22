@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="73VFPhNwVmZK" classes="attribute" acceptedChildren=":Proteus-none" acceptedParents="entity-class association">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Teléfono]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Telefono]]></stringProperty>
     <stringProperty name="type" category="general"><![CDATA[long]]></stringProperty>
-    <markdownProperty name="description" category="detail"><![CDATA[description]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Número de teléfono.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
