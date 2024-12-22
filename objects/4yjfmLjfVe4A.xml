@@ -1,17 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="5FLGxTtCaRUt" classes="general-traceable-object figure" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+<object id="4yjfmLjfVe4A" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section" selectedCategory="detail">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Diagrama de secuencia: Crear cita]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Párrafo]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-12-22</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
       <trace target="5jCxUoFfb23w" traceType=":Proteus-author"/>
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <fileProperty name="file" category="detail" tooltip="file-info"><![CDATA[CrearCita.png]]></fileProperty>
-    <urlProperty name="url" category="detail"><![CDATA[]]></urlProperty>
-    <integerProperty name="width" category="detail" tooltip="width-info">50</integerProperty>
-    <markdownProperty name="description" category="detail"><![CDATA[Diagrama de secuencia: Crear cita]]></markdownProperty>
+    <markdownProperty name="text" category="detail"><![CDATA[<b>Editar datos personales.</b> Para editar sus datos personales, el paciente deberá haber iniciado sesión. El paciente pulsará el botón que contiene su nombre y apellidos, llevándolo a una pantalla en la que aparecerán sus datos personale. El paciente editará los campos que desee y para confirmarlos, deberá pulsar en el botón "Confirmar cambios". Finalmente, los datos actualizados son mostrados en pantalla.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

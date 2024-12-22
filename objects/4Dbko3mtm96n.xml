@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="4Dbko3mtm96n" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section" selectedCategory="detail">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Párrafo]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-12-22</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="5jCxUoFfb23w" traceType=":Proteus-author"/>
+    </traceProperty>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[<b>Comprar bono.</b> Para comprar un bono el paciente deberá haber iniciado sesión. El paciente pulsará el botón "Bonos", abriendose un desplegable, en el cual pulsará "Catálogo". El paciente será dirgido a una pantalla en la que aparecerán los distintos bonos existentes y sus precios y seleccionará  aquel de su elección. A continuación, será redirigido a la pantalla de pago , donde deberá completar la plantilla Finalmente, pulsará el botón "Validar" para completar el pago.]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
