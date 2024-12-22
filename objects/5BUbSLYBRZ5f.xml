@@ -10,7 +10,8 @@
     <markdownProperty name="description" category="detail"><![CDATA[El sistema se comportará como se describe en el siguiente caso de uso cuando el profesional desee aceptar una solicitud de cita de un paciente.
 
 ]]></markdownProperty>
-    <markdownProperty name="precondition" category="pre-post"><![CDATA[El sistema debe haber notificado la solicitud de una cita.]]></markdownProperty>
+    <markdownProperty name="precondition" category="pre-post"><![CDATA[Algún paciente debe haber solicitado una cita.
+<p>El sistema debe haber notificado la solicitud de una cita.</p>]]></markdownProperty>
     <markdownProperty name="postcondition" category="pre-post"><![CDATA[Se envía la notificación de aceptación de solicitud al paciente.
 <p>Se actualiza el calendario del profesional.</p>
 <p>Se actualiza el calendario del paciente.</p>]]></markdownProperty>
