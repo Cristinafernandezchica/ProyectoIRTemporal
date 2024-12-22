@@ -12,7 +12,15 @@
       <trace target="3YawKVDa2Hn4" traceType=":Proteus-dependency"/>
     </traceProperty>
     <markdownProperty name="description" category="detail"><![CDATA[Entidad heredada de la entidad 'Persona' que representa a todos los trabajadores que  ofrecen servicios a los pacientes en la empresa. ]]></markdownProperty>
-    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement model-element" traceType=":Proteus-dependency"/>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement model-element" traceType=":Proteus-dependency">
+      <trace target="4zceteYkErWU" traceType=":Proteus-dependency"/>
+      <trace target="5a5L58hT2dXH" traceType=":Proteus-dependency"/>
+      <trace target="7vPrL3Y4dxDx" traceType=":Proteus-dependency"/>
+      <trace target="3TaBUnMqEYqE" traceType=":Proteus-dependency"/>
+      <trace target="5BUbSLYBRZ5f" traceType=":Proteus-dependency"/>
+      <trace target="7Qe3tN7PiSCD" traceType=":Proteus-dependency"/>
+      <trace target="5YP6gdGMp2oV" traceType=":Proteus-dependency"/>
+    </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children>

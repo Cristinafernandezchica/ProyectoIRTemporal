@@ -10,7 +10,15 @@
     <booleanProperty name="is-abstract" category="detail" tooltip="is-abstract">false</booleanProperty>
     <traceProperty name="superclass" category="detail" acceptedTargets="entity-class" traceType=":Proteus-dependency" maxTargetsNumber="1"/>
     <markdownProperty name="description" category="detail"><![CDATA[Entidad que representa las citas que pueden coger los pacientes para tener sesiones con los profesionales. Contiene los datos de la fecha y hora de inicio y fin de la cita; y el estado de la cita que puede ser libre, en solicitud pendiente de ser confirmarda por el profesional o aceptada.]]></markdownProperty>
-    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement model-element" traceType=":Proteus-dependency"/>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement model-element" traceType=":Proteus-dependency">
+      <trace target="8LsmVcXX46gd" traceType=":Proteus-dependency"/>
+      <trace target="n4WJSCtyfkUi" traceType=":Proteus-dependency"/>
+      <trace target="6KUwzEXQBmq8" traceType=":Proteus-dependency"/>
+      <trace target="7vPrL3Y4dxDx" traceType=":Proteus-dependency"/>
+      <trace target="5BUbSLYBRZ5f" traceType=":Proteus-dependency"/>
+      <trace target="3TaBUnMqEYqE" traceType=":Proteus-dependency"/>
+      <trace target="32GiVcY8ceKW" traceType=":Proteus-dependency"/>
+    </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children>
